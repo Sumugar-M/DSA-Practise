@@ -44,6 +44,6 @@ int main() {
     if (num >= 20) {
         printf("Wrong Infra\n");
     } else {
-        printf("%d", ( num + (num / 2) + (num % 2) ) );
+        printf("%d", ( num + (num / 2) + (num % 2) ) ); 
     }
 }

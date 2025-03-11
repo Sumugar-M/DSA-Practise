@@ -26,6 +26,7 @@ int main()
             if(rigth_ptr == left_ptr + 1) {
                 printf("%c", str[left_ptr]);
                 break;
+                
             } else {
                 rigth_ptr--;
             }
